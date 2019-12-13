@@ -26,8 +26,11 @@ and import an account provided by ganache
 
 
 on metamask extension:
+
 Switch network to `Custom RPC`
+
 Enter in the URL shown on Ganache
+
 in settings, go to: general > connections > add site > "localhost"
 
 On a command prompt:
