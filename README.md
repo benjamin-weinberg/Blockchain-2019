@@ -3,20 +3,27 @@
 ## Instructions to run application
 Clone Repo
 
+
 run command:
 ```
 npm install
 ```
 
-Install Dependancies:
-- Truffle: https://github.com/trufflesuite/truffle or `npm install -g truffle`
 
-- Ganache: http://truffleframework.com/ganache/
+Install Dependancies:
+Truffle: https://github.com/trufflesuite/truffle or `npm install -g truffle`
+
+
+Ganache: http://truffleframework.com/ganache/
+
 Run Ganache
 
-- Metamask: https://metamask.io/
+
+Metamask: https://metamask.io/
+
 Setup follow metamask account
 and import an account provided by ganache
+
 
 on metamask extension:
 Switch network to `Custom RPC`
